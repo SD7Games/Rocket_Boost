@@ -5,7 +5,7 @@ The player controls a rocket and must reach the finish point without touching an
 Simple, clean gameplay focused on physics, movement control and quick reactions.
 
 Playable WebGL version:  
-👉 **[https://sd7games.itch.io/rocketboost](https://sd7games.itch.io/rocket-boost)**
+👉 **https://sd7games.itch.io/rocketboost**
 
 ---
 
@@ -15,12 +15,12 @@ The rocket is controlled using physics forces and torque.
 The goal is to fly from **Point A** to **Point B** while avoiding walls, floating objects and level geometry.
 
 ### Core Mechanics  
-- **Physics-based movement:** thrust, rotation and inertia.  
-- **Gravity & collisions** using Unity’s Rigidbody system.  
-- **Obstacle Course:** walls, platforms and floating structures.  
+- **Physics-based movement:** thrust, rotation, inertia.  
+- **Rigidbody gravity & collisions** using Unity’s physics system.  
+- **Obstacle course:** walls, platforms, floating structures.  
 - **Level Goal:** reach the landing pad without crashing.  
-- **Restart on collision** for quick retry loops.  
-- **Audio & VFX:** engine sound, collision sound, simple lighting and post-processing.
+- **Fast retry loop:** instant restart on collision.  
+- **Audio & VFX:** engine sound, collision sound, lighting setup and light post-processing.
 
 ---
 
@@ -30,8 +30,8 @@ The goal is to fly from **Point A** to **Point B** while avoiding walls, floatin
 - Rigidbody physics  
 - Force-based movement  
 - Prefab workflow  
-- Basic VFX/SFX  
 - Simple level design  
+- Basic VFX/SFX  
 - Lightweight post-processing
 
 ---
@@ -54,9 +54,31 @@ The goal is to fly from **Point A** to **Point B** while avoiding walls, floatin
 ## 📸 Screenshots  
 TO DO
 
+
+---
+
+## 📸 Screenshots
+
+### 💥 Collision & Destruction (Crash Moment)
+<p align="center">
+  <img src="Crush.png" width="640"/>
+</p>
+
+### 🔆 Light Simulation & Floating Obstacles
+<p align="center">
+  <img src="Ligth point.png" width="640"/>
+</p>
+
+### 🚀 Early Flight Scene (Start Level)
+<p align="center">
+  <img src="Start Level.png" width="640"/>
+</p>
+
+
 ---
 
 ## 👨‍💻 Developer  
 **Oleksandr Tokarev** — Unity & C# Game Developer based in Finland.  
 A small physics prototype created to practice movement, collisions and basic environmental design.
+
 
