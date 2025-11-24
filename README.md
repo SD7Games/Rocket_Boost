@@ -5,7 +5,7 @@ The player controls a rocket and must reach the finish point without touching an
 Simple, clean gameplay focused on physics, movement control and quick reactions.
 
 Playable WebGL version:  
-👉 **https://sd7games.itch.io/rocketboost**
+👉 **https://sd7games.itch.io/rocket-boost**
 
 ---
 
